@@ -1,6 +1,6 @@
 # 👀 Bonjour bonjour
 After two MSc. in Geosciences, I decided to start a new career path and join the wonderful world of web development. This ambitious fresh start began in September 2021 where I joined Wild Code School for a 5-month JS/React web development school program.
-I am currently looking for a job opportunity in Bordeaux, front-end oriented position with Angular or React but I'm enclined to consider any position that you could offer me! You can contact me on my email address, you can find it at the bottom of this document.
+<br>I am currently looking for a job opportunity in Bordeaux, front-end oriented position with Angular or React but I'm enclined to consider any position that you could offer me! You can contact me on my email address, you can find it at the bottom of this document.
 <br>So here I am, a junior web developer wandering the world searching for exciting projects to be made with my junior fingers and my not-so-junior brain. 
 
 Have a very pleasant day!
